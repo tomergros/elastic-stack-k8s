@@ -1,5 +1,5 @@
 # Elastic Stack (Elasticsearch, Kibana, Filebeat) on Kubernetes
-Home Task of elastic-stack-k8s &amp; FireBeat Deployment
+Task of elastic-stack-k8s &amp; FireBeat Deployment
 
 By: Tomer Grossman
 
